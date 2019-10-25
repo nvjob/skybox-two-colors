@@ -17,7 +17,9 @@ To work on the project, you will need a Unity version of at least 2019.1.8 (64-b
 Direction A (x, y, z) and Direction B (x, y, z) - rotation of the horizon and color mixing with each other.<br>
 Direction A (w) and Direction B (w) - degree of color blur.
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/4s.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/2s.png)
+
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/5.jpg)
 
 -------------------------------------------------------------------
 
