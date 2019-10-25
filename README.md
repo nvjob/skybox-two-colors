@@ -15,6 +15,7 @@ To work on the project, you will need a Unity version of at least 2019.1.8 (64-b
 
 ### Information
 
+The asset has an example scene.<br>
 Create a material, change the shader of the material to #NVJOB/SkyBox/Two Colors.
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/1s.png)
