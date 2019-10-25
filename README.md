@@ -24,12 +24,13 @@ Noise Mix - mixes the gradient between two colors using noise. This is a necessa
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/2s.png)
 
 ### The basics: 
-Create a material, change the shader of the material to #NVJOB/SkyBox/Two Colors.<br>
+Create a material, change the shader of the material to #NVJOB/SkyBox/Two Colors.
+
 Open Lighting Settings.
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/1as.png)
 
-
+Apply material to Skybox Material.
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/1s.png)
 
