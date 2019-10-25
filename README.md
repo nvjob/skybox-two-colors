@@ -14,13 +14,16 @@ This shader works great with #NVJOB Dynamic Sky Lite (https://nvjob.github.io/un
 To work on the project, you will need a Unity version of at least 2019.1.8 (64-bit).
 
 ### Information
+
+Create a material, change the shader of the material to #NVJOB/SkyBox/Two Colors.
+
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/1s.png)
+
 Direction A (x, y, z) and Direction B (x, y, z) - rotation of the horizon and color mixing with each other.<br>
 Direction A (w) and Direction B (w) - degree of color blur.<br>
 Noise Mix - mixes the gradient between two colors using noise. This is a necessary measure to avoid gradient "ladders".
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/2s.png)
-
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/1s.png)
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/5.jpg)
 
