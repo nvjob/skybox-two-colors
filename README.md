@@ -19,8 +19,6 @@ Direction A (w) and Direction B (w) - degree of color blur.
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/4s.jpg)
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/3.gif)
-
 -------------------------------------------------------------------
 
 ### Authors
