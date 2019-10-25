@@ -530,6 +530,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: UI Donation
       objectReference: {fileID: 0}
+    - target: {fileID: 5264664066239097461, guid: d97b899f4f65c9547850ad37b9e86957,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5264664066239097465, guid: d97b899f4f65c9547850ad37b9e86957,
         type: 3}
       propertyPath: m_LocalPosition.x

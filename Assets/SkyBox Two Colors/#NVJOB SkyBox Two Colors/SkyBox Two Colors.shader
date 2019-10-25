@@ -13,14 +13,15 @@ Shader "#NVJOB/SkyBox/Two Colors" {
 Properties{
 //----------------------------------------------
 
+[Header(Color A Settings)][Space(5)]
 _ColorA("Color A", Color) = (0.0, 0.0, 0.0, 0)
 _IntensityA("Intensity A", Float) = 1.1
 _DirA("Direction A", Vector) = (0.18, -1.64, -0.19, 0)
-[Space(5)]
+[Header(Color B Settings)][Space(5)]
 _ColorB("Color B", Color) = (0.0, 0.4, 0.4, 0)
 _IntensityB("Intensity B", Float) = 1.1
 _DirB("Direction B", Vector) = (1.42, -2.26, -0.50, 0)
-[Space(5)]
+[Header(Noise Mix)][Space(5)]
 _NoiseScale("Noise Scale", Float) = 250
 _NoiseIntensity("Noise Intensity", Float) = 1
 
