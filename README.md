@@ -7,7 +7,7 @@ You can make a skybox of any color. The skyline in SkyBox can be at any angle at
 This shader is baked in global lighting and reflections.<br>
 This shader works great with #NVJOB Dynamic Sky Lite (https://nvjob.github.io/unity/nvjob-dynamic-sky-lite.html).
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/3.gif)
+![GitHub Logo](https://lh3.googleusercontent.com/LDdFlLvqvfQQOTU-v7uGza2FB8RkaOAC-wAHYWdSj58Ozdr6mFjvyWJlsex79Aog3Tk8CfWunqGCKsZk4E-aZCV0TkY6zoflzfKYMdBXc72dpDB1_W-6SCBstEhztR_Naj1he_gGUA=w600-h338-no)
 
 ### Prerequisites
 
