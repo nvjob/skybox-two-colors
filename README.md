@@ -41,6 +41,7 @@ Noise Mix - mixes the gradient between two colors using noise. This is a necessa
 -------------------------------------------------------------------
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/6.jpg)
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/4.jpg)
 
 -------------------------------------------------------------------
 
