@@ -1,13 +1,15 @@
-# #NVJOB SkyBox Two Colors
+# #NVJOB SkyBox Two Colors 1.2
+#### [nvjob.github.io/unity/skybox-two-colors](https://nvjob.github.io/unity/skybox-two-colors)
 
-Version 1.2
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/5.jpg)
 
 Simple and fast shader for SkyBox.<br>
 You can make a skybox of any color. The skyline in SkyBox can be at any angle at your discretion.<br>
-This shader is baked in global lighting and reflections.<br>
-This shader works great with #NVJOB Dynamic Sky Lite (https://nvjob.github.io/unity/nvjob-dynamic-sky-lite.html).
+This shader is baked in global lighting and reflections.
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/1.gif)
+This shader works great with [#NVJOB Dynamic Sky Lite](https://nvjob.github.io/unity/nvjob-dynamic-sky-lite.html).
+
+-------------------------------------------------------------------
 
 ### Prerequisites
 
@@ -34,20 +36,18 @@ Noise Mix - mixes the gradient between two colors using noise. This is a necessa
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/1s.png)
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/5.jpg)
+-------------------------------------------------------------------
+
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/1.gif)
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/skybox%20two%20colors/12/pic/6.jpg)
 
 -------------------------------------------------------------------
 
-### Authors
-Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
+**Authors:** #NVJOB Nicholas Veselov - [nvjob.github.io](https://nvjob.github.io)
 
-### License
-MIT License - https://nvjob.github.io/mit-license
+**License:** MIT License. Clarification of licenses - [nvjob.github.io/mit-license](https://nvjob.github.io/mit-license)
 
-### Donate
-Help for this project - https://nvjob.github.io/donate
+**Support:** [nvjob.github.io/support](https://nvjob.github.io/support)
 
-### Report a Problem
-Report a Problem / Issue Tracker / FAQ - https://nvjob.github.io/reportaproblem
+**Report a Problem / Issue Tracker / FAQ:** [nvjob.github.io/reportaproblem](https://nvjob.github.io/reportaproblem)
